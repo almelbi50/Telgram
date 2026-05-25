@@ -2,7 +2,7 @@ name: Sync Website to Telegram
 
 on:
   schedule:
-    - cron: '0 * * * *' # يعمل تلقائياً رأس كل ساعة
+    - cron: '0 * * * *' # يستمر في الفحص كل ساعة لالتقاط الجديد فوراً
   workflow_dispatch: # متاح للتشغيل اليدوي فوراً
 
 jobs:
@@ -13,7 +13,7 @@ jobs:
     - name: Checkout Repository
       uses: actions/checkout@v4
       with:
-        persist-credentials: true # يضمن الاحتفاظ بصلاحيات الكتابة أثناء تشغيل السكريبت
+        persist-credentials: true
 
     - name: Set up Python
       uses: actions/setup-python@v5
@@ -35,9 +35,7 @@ jobs:
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         
-        # تحقق إذا كان الملف تم إنشاؤه أو تعديله
         if [ -f published_links.txt ]; then
           git add published_links.txt
-          # إذا كان هناك تغيير، يتم الحفظ والدفع بالسيرفر فوراً
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update history log [skip ci]" && git push origin HEAD:${{ github.ref_name }})
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update history log and counter [skip ci]" && git push origin HEAD:${{ github.ref_name }})
         fi
