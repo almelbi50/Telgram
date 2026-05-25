@@ -10,22 +10,33 @@ CHANNEL_ID = os.getenv("TELEGRAM_CHANNEL_ID")
 FEED_URL = "https://phy-lab.com/feed"
 HISTORY_FILE = "published_links.txt"
 
+def normalize_url(url):
+    """تنظيف الرابط وإزالة الفروق الطفيفة مثل العلامة المائلة في النهاية"""
+    if not url:
+        return ""
+    url = url.strip().lower()
+    if url.endswith('/'):
+        url = url[:-1]
+    return url
+
 def load_published_history():
-    """تحميل سجل الروابط التي تم نشرها سابقاً لمنع التكرار"""
+    """تحميل سجل الروابط المنشورة وتنظيفها تماماً"""
     if os.path.exists(HISTORY_FILE):
         with open(HISTORY_FILE, "r", encoding="utf-8") as f:
-            return set(line.strip() for line in f if line.strip())
+            return set(normalize_url(line) for line in f if line.strip())
     return set()
 
 def save_to_history(link):
-    """إضافة الرابط الجديد إلى سجل التاريخ"""
+    """حفظ الرابط بعد تنظيفه في السجل لمنع التكرار"""
+    normalized = normalize_url(link)
     with open(HISTORY_FILE, "a", encoding="utf-8") as f:
-        f.write(link + "\n")
+        f.write(normalized + "\n")
 
 def clean_html(raw_html):
-    """تنظيف النصوص وفك ترميز رموز HTML وإعدادها للتلقرام"""
+    """فك ترميز الرموز الخاصة وإزالة وسوم الـ HTML"""
     decoded_html = html.unescape(raw_html)
     clean_text = re.sub(r'<[^>]+>', '', decoded_html)
+    # حماية رموز الماركداون الخاصة بالتليجرام
     clean_text = clean_text.replace('_', '\\_').replace('*', '\\*').replace('[', '\\[').replace('`', '\\`')
     return clean_text.strip()[:150] + "..."
 
@@ -33,7 +44,6 @@ def publish_to_telegram(title, link, summary, is_archive=False):
     clean_summary = clean_html(summary)
     clean_title = html.unescape(title)
     
-    # تخصيص عنوان المنشور بناءً على نوعه (جديد أم من الأرشيف)
     header = "🎯 *مقال علمي جديد في منصة معامل الفيزياء!*" if not is_archive else "📚 *من أرشيف معامل الفيزياء المتميزة*"
     
     message = (
@@ -58,8 +68,12 @@ def publish_to_telegram(title, link, summary, is_archive=False):
         "disable_web_page_preview": False
     }
     
-    response = requests.post(url, json=payload)
-    return response.status_code == 200
+    try:
+        response = requests.post(url, json=payload)
+        return response.status_code == 200
+    except Exception as e:
+        print(f"حدث خطأ أثناء الاتصال بتليجرام: {e}")
+        return False
 
 def main():
     feed = feedparser.parse(FEED_URL)
@@ -69,9 +83,11 @@ def main():
 
     published_history = load_published_history()
     
-    # 1. التحقق أولاً من وجود مقال جديد تماماً نُشر الآن على الموقع
+    # 1. التحقق من المقال الأحدث تماماً بالموقع
     latest_entry = feed.entries[0]
-    if latest_entry.link not in published_history:
+    normalized_latest_link = normalize_url(latest_entry.link)
+    
+    if normalized_latest_link not in published_history:
         print(f"تم رصد مقال جديد تماماً: {latest_entry.title}")
         success = publish_to_telegram(latest_entry.title, latest_entry.link, latest_entry.summary, is_archive=False)
         if success:
@@ -79,21 +95,20 @@ def main():
             print("تم نشر المقال الجديد بنجاح.")
         return
 
-    # 2. إذا لم يكن هناك مقال جديد، فالبوت يبحث عن المقالات القديمة غير المنشورة في السجل
-    print("لا توجد مقالات حصرية جديدة. فحص الأرشيف المتاح في الخلاصة...")
-    unpublications = [entry for entry in feed.entries if entry.link not in published_history]
+    # 2. إذا كان المقال الأحدث منشراً بالفعل، يبحث في الأرشيف المتاح بالخلاصة
+    print("المقال الأحدث مسجل مسبقاً. فحص بقية مقالات الأرشيف في الخلاصة...")
+    unpublications = [entry for entry in feed.entries if normalize_url(entry.link) not in published_history]
     
     if unpublications:
-        # اختيار مقال عشوائي من المقالات السابقة المتاحة في الخلاصة والتي لم تنشر بالقناة
         archive_entry = random.choice(unpublications)
-        print(f"جاري إعادة نشر مقال من الأرشيف: {archive_entry.title}")
+        print(f"جاري سحب مقال من الأرشيف: {archive_entry.title}")
         
         success = publish_to_telegram(archive_entry.title, archive_entry.link, archive_entry.summary, is_archive=True)
         if success:
             save_to_history(archive_entry.link)
-            print("تم نشر المقال الأرشيفي بنجاح وتحديث السجل.")
+            print("تم نشر المقال الأرشيفي بنجاح وتحديث سجل الأمان.")
     else:
-        print("كل المقالات المتاحة حالياً في الخلاصة تم نشرها مسبقاً في القناة.")
+        print("كل المقالات المتوفرة حالياً في الخلاصة تم نشرها بالكامل من قبل.")
 
 if __name__ == "__main__":
     main()
