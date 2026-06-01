@@ -13,3 +13,4 @@ https://phy-lab.com/electron-diffraction || archive || 2026-05-30 17:37:28
 https://phy-lab.com/handbook-of-safety-instructions-in-labs || archive || 2026-05-30 19:27:00
 https://phy-lab.com/simulating-the-experiment-of-resistors-in-parallel || archive || 2026-05-31 04:25:06
 https://phy-lab.com/%d8%a7%d8%ad%d8%b0%d8%b1-%d8%a7%d9%84%d9%81%d8%ac%d9%88%d8%a9-%d9%87%d9%84-%d8%aa%d8%b1%d8%a7%d9%87%d9%86-%d8%b5%d9%86%d8%a7%d8%b9%d8%a9-%d8%a3%d8%b4%d8%a8%d8%a7%d9%87-%d8%a7%d9%84%d9%85%d9%88%d8%b5 || archive || 2026-05-31 08:19:10
+https://phy-lab.com/safety-in-lab || archive || 2026-06-01 04:56:01
