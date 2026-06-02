@@ -17,3 +17,4 @@ https://phy-lab.com/safety-in-lab || archive || 2026-06-01 04:56:01
 https://phy-lab.com/ray-tracing || archive || 2026-06-01 10:28:44
 https://phy-lab.com/%d8%a3%d8%aa%d9%85%d8%aa%d8%a9-%d9%82%d9%86%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d8%aa%d9%84%d9%8a%d8%ac%d8%b1%d8%a7%d9%85-%d9%83%d9%8a%d9%81-%d8%aa%d8%af%d9%8a%d8%b1-%d9%82%d9%86%d8%a7%d8%aa%d9%83-%d8%a8 || new || 2026-06-01 20:59:28
 https://phy-lab.com/projectile_motion || archive || 2026-06-02 04:43:28
+https://phy-lab.com/lab-4 || archive || 2026-06-02 09:15:04
