@@ -109,7 +109,7 @@ def main():
 
     # 2. خطة الأرشيف (بشرط ألا يتجاوز مقالين يومياً)
     archive_sent_today = get_archive_count_today(history_lines)
-    print(f"عدد مقالات الأرشيف المرسلة اليوم حتى الآن: {archive_sent_today}/2")
+    print(f"عدد مقالات الأرشيف المرسلة اليوم حتى الآن: {archive_sent_today}/1")
     
     if archive_sent_today < 2:
         print("مسموح بنشر مقال أرشيفي. فحص خلاصة الأرشيف...")
