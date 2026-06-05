@@ -22,3 +22,4 @@ https://phy-lab.com/refraction-experiment || archive || 2026-06-03 04:52:29
 https://phy-lab.com/the-effect-of-tilt-angles-on-the-productivity-of-photovoltaic-panels || archive || 2026-06-03 09:58:56
 https://phy-lab.com/identifying-solar-cell-lab-equipment || archive || 2026-06-04 04:46:23
 https://phy-lab.com/simulating-the-double-slit-experience || archive || 2026-06-04 16:24:21
+https://phy-lab.com/analyzing-spectral-data-using-python || archive || 2026-06-05 04:21:18
