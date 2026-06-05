@@ -2,7 +2,7 @@ name: Sync Website to Telegram
 
 on:
   schedule:
-    - cron: '0 * * * *' # يستمر في الفحص كل ساعة لالتقاط الجديد فوراً
+    - cron: '0 11 * * *' # يستمر في الفحص كل ساعة لالتقاط الجديد فوراً
   workflow_dispatch: # متاح للتشغيل اليدوي فوراً
 
 jobs:
