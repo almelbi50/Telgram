@@ -26,3 +26,4 @@ https://phy-lab.com/analyzing-spectral-data-using-python || archive || 2026-06-0
 https://phy-lab.com/%d9%85%d8%ad%d8%a7%d9%83%d8%a7%d8%a9-%d8%aa%d9%81%d8%a7%d8%b9%d9%84%d9%8a%d8%a9-%d8%aa%d8%ac%d8%b1%d8%a8%d8%a9-%d8%aa%d8%b9%d9%8a%d9%8a%d9%86-%d8%a7%d9%84%d8%ad%d8%b1%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84 || archive || 2026-06-05 08:47:47
 https://phy-lab.com/%d8%af%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85%d8%a9-%d9%88%d8%a7%d9%84%d8%a5%d8%ac%d8%b1%d8%a7%d8%a1%d8%a7%d8%aa-%d8%a7%d9%84%d8%a2%d9%85%d9%86%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%aa || archive || 2026-06-06 12:10:22
 https://phy-lab.com/measurements-expermint || archive || 2026-06-07 12:24:15
+https://phy-lab.com/zeeman-effect || archive || 2026-06-08 14:51:37
