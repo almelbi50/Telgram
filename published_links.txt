@@ -28,3 +28,4 @@ https://phy-lab.com/%d8%af%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%8
 https://phy-lab.com/measurements-expermint || archive || 2026-06-07 12:24:15
 https://phy-lab.com/zeeman-effect || archive || 2026-06-08 14:51:37
 https://phy-lab.com/fresnel_mirror_interference_laser || archive || 2026-06-09 13:46:49
+https://phy-lab.com/simulation-the-simple-pendulum-experiment || archive || 2026-06-10 14:27:12
