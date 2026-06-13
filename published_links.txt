@@ -31,3 +31,4 @@ https://phy-lab.com/fresnel_mirror_interference_laser || archive || 2026-06-09 1
 https://phy-lab.com/simulation-the-simple-pendulum-experiment || archive || 2026-06-10 14:27:12
 https://phy-lab.com/%d8%af%d9%84%d9%8a%d9%84-%d8%aa%d8%b4%d8%ba%d9%8a%d9%84%d9%8a-%d8%b9%d8%a7%d9%85-%d9%84%d8%a3%d8%ba%d9%84%d8%a8-%d8%a3%d8%ac%d9%87%d8%b2%d8%a9-%d8%a7%d9%84%d9%85%d8%ac%d9%87%d8%b1-%d8%a7%d9%84%d8%a5 || archive || 2026-06-11 14:46:14
 https://phy-lab.com/interactive-simulation-of-solar-panel-performance || archive || 2026-06-12 14:12:21
+https://phy-lab.com/103-2 || archive || 2026-06-13 12:54:08
