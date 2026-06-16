@@ -33,3 +33,4 @@ https://phy-lab.com/%d8%af%d9%84%d9%8a%d9%84-%d8%aa%d8%b4%d8%ba%d9%8a%d9%84%d9%8
 https://phy-lab.com/interactive-simulation-of-solar-panel-performance || archive || 2026-06-12 14:12:21
 https://phy-lab.com/103-2 || archive || 2026-06-13 12:54:08
 https://phy-lab.com/%d9%86%d8%b8%d8%a7%d9%85-%d8%a7%d9%84%d8%ae%d9%84%d8%a7%d9%8a%d8%a7-%d8%a7%d9%84%d9%83%d9%87%d8%b1%d9%88%d8%b6%d9%88%d8%a6%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d8%aa%d8%b5%d9%84-%d8%a8%d8%a7%d9%84%d8%b4 || archive || 2026-06-15 16:20:35
+https://phy-lab.com/laboratory-report || archive || 2026-06-16 16:01:37
