@@ -36,3 +36,4 @@ https://phy-lab.com/%d9%86%d8%b8%d8%a7%d9%85-%d8%a7%d9%84%d8%ae%d9%84%d8%a7%d9%8
 https://phy-lab.com/laboratory-report || archive || 2026-06-16 16:01:37
 https://phy-lab.com/morphological-characterization-of-spherical-nanoparticles-from-sem-images-via-python || archive || 2026-06-17 14:28:33
 https://phy-lab.com/friction-and-the-inclined-plane || archive || 2026-06-18 14:15:42
+https://phy-lab.com/fire-extinguisher || archive || 2026-06-20 12:54:28
