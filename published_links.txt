@@ -39,3 +39,4 @@ https://phy-lab.com/friction-and-the-inclined-plane || archive || 2026-06-18 14:
 https://phy-lab.com/fire-extinguisher || archive || 2026-06-20 12:54:28
 https://phy-lab.com/%d8%af%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85%d8%a9-%d9%85%d9%86-%d8%a7%d9%84%d9%85%d8%ae%d8%a7%d8%b7%d8%b1-%d8%a7%d9%84%d9%83%d9%87%d8%b1%d8%a8%d8%a7%d8%a6%d9%8a%d8%a9-%d9%88%d8%a7 || archive || 2026-06-21 13:12:17
 https://phy-lab.com/research-labs-safety-guidelines-english-version || archive || 2026-06-22 15:58:10
+https://phy-lab.com/simulating-a-tensile-testing-experiment || archive || 2026-06-23 13:44:48
