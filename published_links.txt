@@ -41,3 +41,4 @@ https://phy-lab.com/%d8%af%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%8
 https://phy-lab.com/research-labs-safety-guidelines-english-version || archive || 2026-06-22 15:58:10
 https://phy-lab.com/simulating-a-tensile-testing-experiment || archive || 2026-06-23 13:44:48
 https://phy-lab.com/kundts-tube-experiment-simulation || archive || 2026-06-24 13:26:04
+https://phy-lab.com/simulating-the-series-resistor-experiment || archive || 2026-06-25 13:23:04
