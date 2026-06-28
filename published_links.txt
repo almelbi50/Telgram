@@ -44,3 +44,4 @@ https://phy-lab.com/kundts-tube-experiment-simulation || archive || 2026-06-24 1
 https://phy-lab.com/simulating-the-series-resistor-experiment || archive || 2026-06-25 13:23:04
 https://phy-lab.com/%d8%b9%d8%b7%d9%84-%d9%85%d8%af%d8%ae%d9%84-ma-%d9%81%d9%8a-%d8%a3%d8%ac%d9%87%d8%b2%d8%a9-%d8%a7%d9%84%d9%82%d9%8a%d8%a7%d8%b3-%d8%a7%d9%84%d8%aa%d8%ad%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d9%81%d9%86 || archive || 2026-06-26 13:15:03
 https://phy-lab.com/material_characterization_techniques_guide || archive || 2026-06-27 12:12:08
+https://phy-lab.com/plancks-constant-photo-electric-effect || archive || 2026-06-28 12:18:51
