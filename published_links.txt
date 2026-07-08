@@ -53,3 +53,4 @@ https://phy-lab.com/%d8%aa%d8%ac%d8%b1%d8%a8%d8%a9-%d8%ad%d9%8a%d9%88%d8%af-%d8%
 https://phy-lab.com/%d8%a2%d9%81%d8%a7%d9%82-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%81%d9%8a-%d9%87%d9%86%d8%af%d8%b3%d8%a9-%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%af-%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d9%86%d9%85%d9%88%d8%b0%d8%ac || new || 2026-07-05 12:21:50
 https://phy-lab.com/10kv-high-voltage-power-supply || archive || 2026-07-06 14:31:30
 https://phy-lab.com/physics_bot || archive || 2026-07-07 13:23:42
+https://phy-lab.com/maxwells-wheel-experience || archive || 2026-07-08 12:26:01
