@@ -54,3 +54,4 @@ https://phy-lab.com/%d8%a2%d9%81%d8%a7%d9%82-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%
 https://phy-lab.com/10kv-high-voltage-power-supply || archive || 2026-07-06 14:31:30
 https://phy-lab.com/physics_bot || archive || 2026-07-07 13:23:42
 https://phy-lab.com/maxwells-wheel-experience || archive || 2026-07-08 12:26:01
+https://phy-lab.com/the-effect-of-the-angle-and-number-of-wind-turbine-blades-on-its-performance || archive || 2026-07-09 13:51:54
