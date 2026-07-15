@@ -54,7 +54,7 @@ def publish_to_telegram(title, link, summary, is_archive=False):
     clean_summary = clean_html(summary)
     clean_title = html.unescape(title)
     
-    header = "🎯 *مقال علمي جديد في منصة معامل الفيزياء!*" if not is_archive else "📚 *من أرشيف معامل الفيزياء المتميزة*"
+    header = "🎯 *مقال علمي جديد في منصة معامل الفيزياء!*" if not is_archive else "📚 *من أرشيف معامل الفيزياء *"
     
     message = (
         f"{header}\n\n"
