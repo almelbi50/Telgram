@@ -61,3 +61,4 @@ https://phy-lab.com/%d9%85%d8%ad%d8%a7%d9%83%d8%a7%d8%a9-%d8%aa%d9%81%d8%a7%d8%b
 https://phy-lab.com/connecting-solar-panels-in-series-and-parallel || archive || 2026-07-13 13:27:46
 https://phy-lab.com/python-for-analyzing-scanning-electron-microscope-images || archive || 2026-07-14 12:19:16
 https://phy-lab.com/gyroscope-with-three-axes-experiment || archive || 2026-07-15 12:19:57
+https://phy-lab.com/steps-for-cleaning-the-internal-filter-of-an-x-ray-machine-philips-type || archive || 2026-07-16 12:24:37
