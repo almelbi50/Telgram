@@ -63,3 +63,4 @@ https://phy-lab.com/python-for-analyzing-scanning-electron-microscope-images || 
 https://phy-lab.com/gyroscope-with-three-axes-experiment || archive || 2026-07-15 12:19:57
 https://phy-lab.com/steps-for-cleaning-the-internal-filter-of-an-x-ray-machine-philips-type || archive || 2026-07-16 12:24:37
 https://phy-lab.com/electron-spin-resonance-at-dpph-simulator || archive || 2026-07-17 12:15:09
+https://phy-lab.com/lab-3 || archive || 2026-07-18 11:57:38
