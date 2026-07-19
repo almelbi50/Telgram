@@ -64,3 +64,4 @@ https://phy-lab.com/gyroscope-with-three-axes-experiment || archive || 2026-07-1
 https://phy-lab.com/steps-for-cleaning-the-internal-filter-of-an-x-ray-machine-philips-type || archive || 2026-07-16 12:24:37
 https://phy-lab.com/electron-spin-resonance-at-dpph-simulator || archive || 2026-07-17 12:15:09
 https://phy-lab.com/lab-3 || archive || 2026-07-18 11:57:38
+https://phy-lab.com/%d8%a3%d8%b3%d9%84%d8%a7%d9%83-%d8%a3%d8%af%d9%82-%d9%88%d8%a5%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d8%a7%d8%aa-%d8%a3%d8%b3%d8%b1%d8%b9-%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%af-%d8%a7%d9%84%d9%83%d9%85 || new || 2026-07-19 12:02:28
