@@ -70,3 +70,4 @@ https://phy-lab.com/dsc-q2000 || archive || 2026-07-21 12:26:40
 https://phy-lab.com/%d8%a2%d9%81%d8%a7%d9%82-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d9%83%d9%87%d8%b1%d8%b6%d9%88%d8%a6%d9%8a%d8%a7%d8%aa-%d8%aa%d9%88%d8%ac%d9%8a%d9%87-%d8%aa%d9%8a%d8%a7%d8%b1%d8%a7 || new || 2026-07-22 12:43:29
 https://phy-lab.com/%d8%af%d9%84%d9%8a%d9%84-%d8%b3%d9%84%d8%a7%d9%85%d8%a9-%d8%a7%d9%84%d9%84%d9%8a%d8%b2%d8%b1-%d9%81%d9%8a-%d9%85%d8%ae%d8%aa%d8%a8%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d9%81%d9%8a%d8%b2%d9%8a%d8%a7%d8%a1 || archive || 2026-07-23 12:43:46
 https://phy-lab.com/voltage-sources || archive || 2026-07-24 12:23:22
+https://phy-lab.com/the-effect-of-load-on-wind-turbines || archive || 2026-07-26 12:09:36
