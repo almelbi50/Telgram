@@ -82,3 +82,4 @@ https://phy-lab.com/%d9%85%d8%ad%d8%a7%d9%83%d8%a7%d8%a9-%d8%aa%d8%ac%d8%b1%d8%a
 https://phy-lab.com/1695-2 || archive || 2026-08-06 12:59:54
 https://phy-lab.com/%d9%85%d8%ad%d8%a7%d9%83%d8%a7%d8%a9-%d8%aa%d8%ac%d8%b1%d8%a8%d8%a9-%d9%82%d8%a7%d9%86%d9%88%d9%86-%d9%86%d9%8a%d9%88%d8%aa%d9%86-%d9%84%d9%84%d8%aa%d8%a8%d8%b1%d9%8a%d8%af || archive || 2026-08-07 11:50:11
 https://phy-lab.com/simulating-the-youngs-modulus-assignment-experiment-for-a-wire || archive || 2026-08-08 11:34:40
+https://phy-lab.com/fata-morgana-mirage || new || 2026-08-09 11:35:49
