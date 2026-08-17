@@ -90,3 +90,4 @@ https://phy-lab.com/introduction-to-solar-energy-systems || archive || 2026-08-1
 https://phy-lab.com/a-practical-protocol-for-accurate-quantitative-eds-analysis || new || 2026-08-14 11:50:15
 https://phy-lab.com/%d9%85%d8%ad%d8%a7%d9%83%d8%a7%d8%a9-%d8%aa%d8%ac%d8%b1%d8%a8%d8%a9-%d8%aa%d8%ad%d9%82%d9%8a%d9%82-%d9%82%d8%a7%d9%86%d9%88%d9%86-%d8%a3%d9%88%d9%85 || archive || 2026-08-15 11:25:54
 https://phy-lab.com/%d9%85%d8%ad%d8%a7%d9%83%d8%a7%d8%a9-%d8%aa%d8%ac%d8%b1%d8%a8%d8%a9-%d8%a7%d9%84%d8%ac%d9%8a%d8%b1%d9%88%d8%b3%d9%83%d9%88%d8%a8-%d8%ab%d9%84%d8%a7%d8%ab%d9%8a-%d8%a7%d9%84%d9%85%d8%ad%d8%a7%d9%88 || archive || 2026-08-16 11:25:55
+https://phy-lab.com/%d8%af%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85%d8%a9-%d9%85%d9%86-%d8%a7%d9%84%d8%a7%d8%b4%d8%b9%d8%a7%d8%b9 || archive || 2026-08-17 11:31:32
