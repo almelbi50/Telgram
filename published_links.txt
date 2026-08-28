@@ -101,3 +101,4 @@ https://phy-lab.com/lab-5 || archive || 2026-08-24 11:35:17
 https://phy-lab.com/mobile-cassy-2 || archive || 2026-08-25 11:34:11
 https://phy-lab.com/ibn-al-haytham-optics-physics || new || 2026-08-26 11:35:27
 https://phy-lab.com/galileo-galilei || new || 2026-08-27 20:57:20
+https://phy-lab.com/physicists-project || new || 2026-08-28 21:20:30
