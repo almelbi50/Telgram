@@ -103,3 +103,4 @@ https://phy-lab.com/ibn-al-haytham-optics-physics || new || 2026-08-26 11:35:27
 https://phy-lab.com/galileo-galilei || new || 2026-08-27 20:57:20
 https://phy-lab.com/physicists-project || new || 2026-08-28 21:20:30
 https://phy-lab.com/%d9%85%d9%86%d8%b5%d8%a9-%d8%b6%d9%88%d8%a6%d9%8a%d8%a9-%d8%ab%d9%88%d8%b1%d9%8a%d8%a9-%d8%b7%d8%b1%d9%8a%d9%82-%d8%b3%d8%b1%d9%8a%d8%b9-%d8%b1%d8%a8%d8%a7%d8%b9%d9%8a-%d8%a7%d9%84%d9%85%d8%b3 || archive || 2026-08-29 15:33:22
+https://phy-lab.com/isaac-newton || new || 2026-08-30 15:17:28
