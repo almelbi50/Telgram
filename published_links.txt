@@ -110,3 +110,4 @@ https://phy-lab.com/%d8%b7%d8%b1%d9%8a%d9%82%d8%a9-%d9%86%d9%82%d8%b4-%d9%85%d8%
 https://phy-lab.com/sadi-carnot-thermodynamics-pioneer || new || 2026-09-03 14:56:14
 https://phy-lab.com/%d9%85%d8%ad%d8%a7%d9%83%d8%a7%d8%a9-%d8%aa%d9%81%d8%a7%d8%b9%d9%84%d9%8a%d8%a9-%d8%aa%d8%ac%d8%b1%d8%a8%d8%a9-%d8%a7%d9%84%d8%aa%d9%85%d8%af%d8%af-%d8%a7%d9%84%d8%ad%d8%b1%d8%a7%d8%b1%d9%8a-%d8%a7 || archive || 2026-09-04 14:53:01
 https://phy-lab.com/james-prescott-joule-thermodynamics-physics || new || 2026-09-05 13:48:37
+https://phy-lab.com/james-clerk-maxwell || new || 2026-09-06 14:04:18
