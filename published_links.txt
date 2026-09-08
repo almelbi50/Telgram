@@ -112,3 +112,4 @@ https://phy-lab.com/%d9%85%d8%ad%d8%a7%d9%83%d8%a7%d8%a9-%d8%aa%d9%81%d8%a7%d8%b
 https://phy-lab.com/james-prescott-joule-thermodynamics-physics || new || 2026-09-05 13:48:37
 https://phy-lab.com/james-clerk-maxwell || new || 2026-09-06 14:04:18
 https://phy-lab.com/ludwig-boltzmann-statistical-mechanics || new || 2026-09-07 16:21:25
+https://phy-lab.com/heinrich-hertz-electromagnetic-waves-physics || new || 2026-09-08 15:01:20
