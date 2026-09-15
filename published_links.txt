@@ -120,3 +120,4 @@ https://phy-lab.com/elementor-3354 || new || 2026-09-12 13:57:39
 https://phy-lab.com/salafuna-alazim || new || 2026-09-13 14:52:49
 https://phy-lab.com/albert-einstein-physics-relativity-quantum || new || 2026-09-14 16:11:06
 https://phy-lab.com/christiaan-huygens || archive || 2026-09-14 16:54:42
+https://phy-lab.com/niels-bohr-atomic-model-quantum-physics || new || 2026-09-15 15:30:15
