@@ -121,3 +121,4 @@ https://phy-lab.com/salafuna-alazim || new || 2026-09-13 14:52:49
 https://phy-lab.com/albert-einstein-physics-relativity-quantum || new || 2026-09-14 16:11:06
 https://phy-lab.com/christiaan-huygens || archive || 2026-09-14 16:54:42
 https://phy-lab.com/niels-bohr-atomic-model-quantum-physics || new || 2026-09-15 15:30:15
+https://phy-lab.com/louis-de-broglie-matter-waves-quantum-mechanics || new || 2026-09-16 15:22:32
