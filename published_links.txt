@@ -128,3 +128,4 @@ https://phy-lab.com/%d8%aa%d8%b1%d8%b4%d9%8a%d8%ad-%d8%a7%d9%84%d9%82%d9%87%d9%8
 https://phy-lab.com/paul-dirac-quantum-mechanics-antimatter || archive || 2026-09-20 14:38:06
 https://phy-lab.com/%d9%85%d8%ad%d8%a7%d9%83%d8%a7%d8%a9-%d8%aa%d8%ac%d8%b1%d8%a8%d8%a9-%d8%a5%d8%ad%d8%b5%d8%a7%d8%a6%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%a7%d9%86%d8%ad%d9%84%d8%a7%d9%84-%d8%a7%d9%84%d8%a5%d8%b4%d8%b9 || archive || 2026-09-21 16:56:12
 https://phy-lab.com/richard-feynman-quantum-physics-qed-path-integral || new || 2026-09-22 15:28:26
+https://phy-lab.com/john-bardeen-bcs-theory-transistor-physics || new || 2026-09-23 15:23:13
