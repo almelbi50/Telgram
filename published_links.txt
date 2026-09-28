@@ -133,3 +133,4 @@ https://phy-lab.com/ibn-sina-physics-mayl-theory || new || 2026-09-24 15:46:28
 https://phy-lab.com/al-khwarizmi-physics-algebra-foundations || new || 2026-09-25 15:46:30
 https://phy-lab.com/robert-hooke-elasticity-physics-legacy || new || 2026-09-27 15:03:59
 https://phy-lab.com/materials-characterization-technique || archive || 2026-09-27 15:35:29
+https://phy-lab.com/robert-boyle-physics-gas-laws || new || 2026-09-28 18:33:06
