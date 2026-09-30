@@ -135,3 +135,4 @@ https://phy-lab.com/robert-hooke-elasticity-physics-legacy || new || 2026-09-27 
 https://phy-lab.com/materials-characterization-technique || archive || 2026-09-27 15:35:29
 https://phy-lab.com/robert-boyle-physics-gas-laws || new || 2026-09-28 18:33:06
 https://phy-lab.com/alessandro-volta-physics-biography || new || 2026-09-29 16:50:51
+https://phy-lab.com/andre-marie-ampere-electrodynamics-physics || new || 2026-09-30 16:45:28
