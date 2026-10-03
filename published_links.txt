@@ -138,3 +138,4 @@ https://phy-lab.com/alessandro-volta-physics-biography || new || 2026-09-29 16:5
 https://phy-lab.com/andre-marie-ampere-electrodynamics-physics || new || 2026-09-30 16:45:28
 https://phy-lab.com/georg-simon-ohm-physics-law-history || new || 2026-10-01 17:19:18
 https://phy-lab.com/blaise-pascal-physics-hydrostatics || archive || 2026-10-02 16:34:42
+https://phy-lab.com/william-thomson-lord-kelvin-physics-thermodynamics || new || 2026-10-03 15:06:21
