@@ -144,3 +144,4 @@ https://phy-lab.com/james-chadwick-neutron-physics || new || 2026-10-06 17:06:49
 https://phy-lab.com/%d9%82%d8%b1%d8%a7%d8%a1%d8%a9-%d9%85%d8%a7-%d9%88%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d9%82%d9%85%d9%85-%d8%aa%d8%ad%d9%84%d9%8a%d9%84-%d8%a8%d8%b5%d8%b1%d9%8a-%d9%8a%d9%81%d9%83-%d8%b4%d9%81%d8%b1%d8%a9 || new || 2026-10-07 17:43:48
 https://phy-lab.com/lise-meitner-nuclear-fission-physics || archive || 2026-10-08 17:48:05
 https://phy-lab.com/wilhelm-conrad-rontgen-physics-xrays || archive || 2026-10-09 17:23:39
+https://phy-lab.com/%d8%a7%d9%84%d8%aa%d8%b9%d8%af%d9%8a%d9%84-%d8%a7%d9%84%d9%85%d8%b2%d8%af%d9%88%d8%ac-%d9%8a%d9%85%d9%86%d8%ad-%d8%a7%d9%84%d9%86%d9%82%d8%a7%d8%b7-%d8%a7%d9%84%d9%83%d9%85%d9%88%d9%85%d9%8a%d8%a9 || archive || 2026-10-10 16:09:27
