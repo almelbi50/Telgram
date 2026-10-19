@@ -153,3 +153,4 @@ https://phy-lab.com/%d8%b7%d9%81%d8%b1%d8%a9-%d9%81%d9%8a-%d9%81%d9%8a%d8%b2%d9%
 https://phy-lab.com/michael-faraday-electromagnetism-laws || archive || 2026-10-16 15:19:15
 https://phy-lab.com/subrahmanyan-chandrasekhar-astrophysics-limit || archive || 2026-10-17 14:07:57
 https://phy-lab.com/%d8%ba%d8%a7%d9%84%d9%8a%d9%84%d9%8a%d9%88-%d9%88%d8%a3%d8%ad%d9%88%d8%a7%d9%84%d9%87-%d9%85%d8%b9-%d8%a7%d9%84%d8%b2%d9%85%d9%86 || archive || 2026-10-18 14:26:11
+https://phy-lab.com/maxwells-equations || new || 2026-10-19 17:23:36
