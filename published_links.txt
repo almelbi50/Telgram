@@ -155,3 +155,4 @@ https://phy-lab.com/subrahmanyan-chandrasekhar-astrophysics-limit || archive || 
 https://phy-lab.com/%d8%ba%d8%a7%d9%84%d9%8a%d9%84%d9%8a%d9%88-%d9%88%d8%a3%d8%ad%d9%88%d8%a7%d9%84%d9%87-%d9%85%d8%b9-%d8%a7%d9%84%d8%b2%d9%85%d9%86 || archive || 2026-10-18 14:26:11
 https://phy-lab.com/maxwells-equations || new || 2026-10-19 17:23:36
 https://phy-lab.com/einsteins-law-of-the-photoelectric-effect || new || 2026-10-20 15:35:58
+https://phy-lab.com/physical-laws || new || 2026-10-21 15:53:48
