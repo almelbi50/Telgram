@@ -156,3 +156,4 @@ https://phy-lab.com/%d8%ba%d8%a7%d9%84%d9%8a%d9%84%d9%8a%d9%88-%d9%88%d8%a3%d8%a
 https://phy-lab.com/maxwells-equations || new || 2026-10-19 17:23:36
 https://phy-lab.com/einsteins-law-of-the-photoelectric-effect || new || 2026-10-20 15:35:58
 https://phy-lab.com/physical-laws || new || 2026-10-21 15:53:48
+https://phy-lab.com/steven-weinberg-electroweak-unification-eft || archive || 2026-10-22 15:50:22
