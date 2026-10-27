@@ -161,3 +161,4 @@ https://phy-lab.com/%d9%85%d8%ad%d8%a7%d9%83%d8%a7%d8%a9-%d8%aa%d8%ac%d8%b1%d8%a
 https://phy-lab.com/peter-higgs-higgs-mechanism-physics || new || 2026-10-24 14:23:36
 https://phy-lab.com/enrico-fermi-physics-contributions || archive || 2026-10-25 14:54:51
 https://phy-lab.com/wolfgang-pauli-quantum-physics-exclusion-principle || archive || 2026-10-26 17:14:08
+https://phy-lab.com/physicists-series-review || new || 2026-10-27 16:20:55
