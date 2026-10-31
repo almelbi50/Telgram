@@ -164,3 +164,4 @@ https://phy-lab.com/wolfgang-pauli-quantum-physics-exclusion-principle || archiv
 https://phy-lab.com/physicists-series-review || new || 2026-10-27 16:20:55
 https://phy-lab.com/massenergy-equivalence || archive || 2026-10-29 17:22:03
 https://phy-lab.com/ibn-al-haytham-experimental-physics-optics || archive || 2026-10-30 16:58:41
+https://phy-lab.com/thomas-young-wave-optics-modulus || archive || 2026-10-31 16:00:10
