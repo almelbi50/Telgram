@@ -167,3 +167,4 @@ https://phy-lab.com/ibn-al-haytham-experimental-physics-optics || archive || 202
 https://phy-lab.com/thomas-young-wave-optics-modulus || archive || 2026-10-31 16:00:10
 https://phy-lab.com/moseley || archive || 2026-11-01 17:03:33
 https://phy-lab.com/research-pulse26 || new || 2026-11-02 20:42:14
+https://phy-lab.com/balmer-series || new || 2026-11-03 18:19:50
