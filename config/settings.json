@@ -4,7 +4,7 @@
   "timezone": "Asia/Riyadh",
 
   "_new_window_days": "المقال الذي نُشر على الموقع خلال هذه المدة ولم يُنشر في القناة يُعامل كمقال جديد ويأخذ الأولوية على الأرشيف",
-  "new_window_days": 21,
+  "new_window_days": 7,
 
   "summary_max_chars": 280,
 
