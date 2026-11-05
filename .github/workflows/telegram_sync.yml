@@ -1,41 +1,77 @@
-name: Sync Website to Telegram
+name: Daily post to Telegram
 
 on:
   schedule:
-    - cron: '0 11 * * *' # يستمر في الفحص كل ساعة لالتقاط الجديد فوراً
-  workflow_dispatch: # متاح للتشغيل اليدوي فوراً
+    # الموعد 7 مساءً بتوقيت الرياض. التشغيلان التاليان احتياطيان في حال تأخر GitHub أو فشل عابر؛
+    # حارس «منشور واحد يومياً» في السكربت يمنع النشر المكرر.
+    - cron: '47 15 * * *'   # 18:47 الرياض
+    - cron: '23 17 * * *'   # 20:23 الرياض
+    - cron: '41 19 * * *'   # 22:41 الرياض
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'تجربة فقط: يجهز المنشور ويرفعه كملف دون إرساله للقناة'
+        type: boolean
+        default: true
+      post_id:
+        description: 'رقم مقال محدد في ووردبريس (اختياري)'
+        type: string
+        default: ''
+      force:
+        description: 'النشر حتى لو نُشر منشور اليوم'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: telegram-daily-post
+  cancel-in-progress: false
 
 jobs:
-  build-and-publish:
+  post:
     runs-on: ubuntu-latest
-
+    timeout-minutes: 15
     steps:
-    - name: Checkout Repository
-      uses: actions/checkout@v4
-      with:
-        persist-credentials: true
+      - uses: actions/checkout@v4
 
-    - name: Set up Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.10'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
 
-    - name: Install Dependencies
-      run: |
-        pip install requests feedparser
+      - name: Install dependencies
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq libfribidi0
+          pip install -r requirements.txt
 
-    - name: Run Sync Script
-      env:
-        TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-        TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
-      run: python fetch_and_post.py
+      - name: Publish today's post
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
+          DRY_RUN: ${{ (github.event_name == 'workflow_dispatch' && inputs.dry_run) && '1' || '0' }}
+          FORCE: ${{ (github.event_name == 'workflow_dispatch' && inputs.force) && '1' || '0' }}
+          POST_ID: ${{ inputs.post_id }}
+        run: python fetch_and_post.py
 
-    - name: Commit and Push History File
-      run: |
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        
-        if [ -f published_links.txt ]; then
-          git add published_links.txt
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update history log and counter [skip ci]" && git push origin HEAD:${{ github.ref_name }})
-        fi
+      - name: Upload preview (dry run)
+        if: github.event_name == 'workflow_dispatch' && inputs.dry_run
+        uses: actions/upload-artifact@v4
+        with:
+          name: telegram-preview
+          path: preview/
+
+      - name: Commit history
+        if: github.event_name != 'workflow_dispatch' || !inputs.dry_run
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A -- history.json published_links.txt 2>/dev/null || git add history.json
+          if git diff --staged --quiet; then
+            echo "لا تغيير في السجل."
+            exit 0
+          fi
+          git commit -m "Update posting history [skip ci]"
+          git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
