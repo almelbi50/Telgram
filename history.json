@@ -1,6 +1,14 @@
 {
- "last_post_date": "2026-11-04",
- "posts": {},
+ "last_post_date": "2026-11-06",
+ "posts": {
+  "4391": {
+   "date": "2026-11-06T00:34:37+03:00",
+   "type": "new",
+   "section": "labs",
+   "message_id": 196,
+   "url": "https://phy-lab.com/laser-beam-wavelength-by-a-monochromator/"
+  }
+ },
  "legacy_urls": [
   "phy-lab.com/103-2",
   "phy-lab.com/10kv-high-voltage-power-supply",
