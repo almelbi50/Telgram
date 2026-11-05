@@ -1,0 +1,20 @@
+{
+  "site_url": "https://phy-lab.com",
+  "site_name": "معامل الفيزياء",
+  "timezone": "Asia/Riyadh",
+
+  "_new_window_days": "المقال الذي نُشر على الموقع خلال هذه المدة ولم يُنشر في القناة يُعامل كمقال جديد ويأخذ الأولوية على الأرشيف",
+  "new_window_days": 21,
+
+  "summary_max_chars": 280,
+
+  "_branded_cover_pattern": "الصور التي يطابق اسمها هذا النمط هي أغلفة مصممة بهوية الموقع فتُرسل كما هي دون إضافة شريط الهوية",
+  "branded_cover_pattern": "(^|[-_/])cover([-_@.]|$)",
+
+  "labels": {
+    "new": "جديد",
+    "archive": "من الأرشيف",
+    "read_button": "اقرأ المقال",
+    "simulation_button": "جرّب المحاكاة"
+  }
+}
