@@ -1,5 +1,5 @@
 {
- "last_post_date": "2026-11-06",
+ "last_post_date": "2026-11-07",
  "posts": {
   "4391": {
    "date": "2026-11-06T00:34:37+03:00",
@@ -7,6 +7,13 @@
    "section": "labs",
    "message_id": 196,
    "url": "https://phy-lab.com/laser-beam-wavelength-by-a-monochromator/"
+  },
+  "4395": {
+   "date": "2026-11-07T00:04:21+03:00",
+   "type": "new",
+   "section": "labs",
+   "message_id": 197,
+   "url": "https://phy-lab.com/he-ne-laser-wavelength-with-a-michelson-interferometer/"
   }
  },
  "legacy_urls": [
