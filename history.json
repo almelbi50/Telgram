@@ -1,5 +1,5 @@
 {
- "last_post_date": "2026-11-10",
+ "last_post_date": "2026-11-11",
  "posts": {
   "4391": {
    "date": "2026-11-06T00:34:37+03:00",
@@ -35,6 +35,13 @@
    "section": "labs",
    "message_id": 200,
    "url": "https://phy-lab.com/i-v-curve-of-a-laser-diode/"
+  },
+  "4434": {
+   "date": "2026-11-11T00:25:38+03:00",
+   "type": "new",
+   "section": "labs",
+   "message_id": 201,
+   "url": "https://phy-lab.com/rutherford-scattering/"
   }
  },
  "legacy_urls": [
