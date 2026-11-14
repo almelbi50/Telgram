@@ -1,5 +1,5 @@
 {
- "last_post_date": "2026-11-14",
+ "last_post_date": "2026-11-15",
  "posts": {
   "4391": {
    "date": "2026-11-06T00:34:37+03:00",
@@ -63,6 +63,13 @@
    "section": "labs",
    "message_id": 204,
    "url": "https://phy-lab.com/determination-of-the-melting-point-of-wax-using-a-cooling-curve/"
+  },
+  "4581": {
+   "date": "2026-11-15T00:34:58+03:00",
+   "type": "new",
+   "section": "horizons",
+   "message_id": 205,
+   "url": "https://phy-lab.com/2112026-2/"
   }
  },
  "legacy_urls": [
