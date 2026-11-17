@@ -1,5 +1,5 @@
 {
- "last_post_date": "2026-11-17",
+ "last_post_date": "2026-11-18",
  "posts": {
   "4391": {
    "date": "2026-11-06T00:34:37+03:00",
@@ -84,6 +84,13 @@
    "section": "horizons",
    "message_id": 207,
    "url": "https://phy-lab.com/sky-colour/"
+  },
+  "4661": {
+   "date": "2026-11-18T02:09:59+03:00",
+   "type": "new",
+   "section": "horizons",
+   "message_id": 208,
+   "url": "https://phy-lab.com/debye/"
   }
  },
  "legacy_urls": [
