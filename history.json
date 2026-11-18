@@ -1,5 +1,5 @@
 {
- "last_post_date": "2026-11-18",
+ "last_post_date": "2026-11-19",
  "posts": {
   "4391": {
    "date": "2026-11-06T00:34:37+03:00",
@@ -91,6 +91,13 @@
    "section": "horizons",
    "message_id": 208,
    "url": "https://phy-lab.com/debye/"
+  },
+  "4625": {
+   "date": "2026-11-19T01:41:52+03:00",
+   "type": "new",
+   "section": "horizons",
+   "message_id": 209,
+   "url": "https://phy-lab.com/fermi-dirac/"
   }
  },
  "legacy_urls": [
