@@ -1,5 +1,5 @@
 {
- "last_post_date": "2026-11-23",
+ "last_post_date": "2026-11-24",
  "posts": {
   "4391": {
    "date": "2026-11-06T00:34:37+03:00",
@@ -126,6 +126,13 @@
    "section": "devices",
    "message_id": 214,
    "url": "https://phy-lab.com/light-transmitter-and-receiver/"
+  },
+  "4726": {
+   "date": "2026-11-24T05:36:53+03:00",
+   "type": "new",
+   "section": "horizons",
+   "message_id": 215,
+   "url": "https://phy-lab.com/22-halo/"
   }
  },
  "legacy_urls": [
