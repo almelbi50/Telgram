@@ -1,5 +1,5 @@
 {
- "last_post_date": "2026-11-25",
+ "last_post_date": "2026-11-26",
  "posts": {
   "4391": {
    "date": "2026-11-06T00:34:37+03:00",
@@ -140,6 +140,13 @@
    "section": "tools",
    "message_id": 216,
    "url": "https://phy-lab.com/spherometer/"
+  },
+  "1471": {
+   "date": "2026-11-26T02:47:58+03:00",
+   "type": "archive",
+   "section": "labs",
+   "message_id": 217,
+   "url": "https://phy-lab.com/%d8%aa%d8%ac%d8%b1%d8%a8%d8%a9-%d9%85%d8%b1%d8%a2%d8%a9-%d9%84%d9%88%d9%8a%d8%af/"
   }
  },
  "legacy_urls": [
