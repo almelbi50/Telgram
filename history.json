@@ -1,5 +1,5 @@
 {
- "last_post_date": "2026-11-26",
+ "last_post_date": "2026-11-27",
  "posts": {
   "4391": {
    "date": "2026-11-06T00:34:37+03:00",
@@ -147,6 +147,13 @@
    "section": "labs",
    "message_id": 217,
    "url": "https://phy-lab.com/%d8%aa%d8%ac%d8%b1%d8%a8%d8%a9-%d9%85%d8%b1%d8%a2%d8%a9-%d9%84%d9%88%d9%8a%d8%af/"
+  },
+  "404": {
+   "date": "2026-11-27T02:59:59+03:00",
+   "type": "archive",
+   "section": "devices",
+   "message_id": 218,
+   "url": "https://phy-lab.com/%d8%ac%d9%87%d8%a7%d8%b2-%d9%82%d9%8a%d8%a7%d8%b3-%d9%85%d8%b9%d8%a7%d9%85%d9%84-%d8%a7%d9%84%d8%b5%d9%84%d8%a7%d8%a8%d8%a9/"
   }
  },
  "legacy_urls": [
